@@ -1,2 +1,2 @@
-# Intro-Project
+# IntroProject
 Resubmitting Intro Project
